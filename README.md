@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vel0Py
-- 👀 I’m interested in IT world
+- 👀 I’m interested in Web/Software development
 - 🌱 I’m currently learning in high school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
